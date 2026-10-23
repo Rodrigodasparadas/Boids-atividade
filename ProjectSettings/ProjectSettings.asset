@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 689f6e0a5f2dc5141b33580edb7738a3
+  productGUID: d04e9c096372d5146a95423c2b71af98
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Boids-atividade
+  productName: Boids
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -846,14 +846,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Boids-atividade
+  metroPackageName: Boids
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Boids-atividade
+  metroApplicationDescription: Boids
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -924,10 +924,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 72c85267-8fd0-4fd5-9d7f-3e63ae7e1433
+  cloudProjectId: 5e41010d-8247-41aa-92ef-62aec75fbb36
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Boids-atividade
+  projectName: Boids
   organizationId: salinasthegk
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
