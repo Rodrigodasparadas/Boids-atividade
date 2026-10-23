@@ -40,6 +40,6 @@ Para abrir a cena principal, basta localizar a pasta **Scenes** e clicar em **Ma
  Quando o predador está perto, o grupo se disperça e sai de seu curso atual para se afastar do predador, e ficam assim até o predador se afastar.
 
 
-## **Comparação utilizando o profiler**
+## **Os vídeos estão na pasta Vídeos Teste**
 
 
