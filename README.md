@@ -5,7 +5,7 @@
 **Integrantes: Gabriel de Campos e Rodrigo Mamede**
 
 **Como abrir a cena de teste?**    
-Para abrir a cena principal, basta abrir a pasta assets da unity, localizar a pasta scene e clicar em MainScene.
+Para abrir a cena principal, basta localizar a pasta **Scenes** e clicar em **MainScene**.
 
 **Parâmetros**
 
